@@ -6,7 +6,7 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
+-- [vet_clinic](#vet_clinic)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -28,31 +28,15 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet-clini] <a name="about-project"></a>
+# 📖 [Vet_clinic database] <a name="about-project"></a>
 
-create all tables and populate tables with sample data
 
-**[Vet-clini]** is a...
+**[Vet_clinic database]** is a relational database used to create the database for a vet clinic. I created a table to store animals' information, insert some data into it, and query it.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
@@ -61,16 +45,15 @@ create all tables and populate tables with sample data
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
--create all tables
--populate tables with sample data
+- **Create animal table**
+- **Populate table with animal data**
+- **Query data**
+- **Update data**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -78,8 +61,12 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: a properly working pc or laptop and a modern web browser.
+In order to run this project you need:
 
+```sh
+ PostgreSql
+ Visual Studio Code
+```
 ### Setup
 
 Clone this repository to your desired folder:
@@ -101,25 +88,13 @@ Install this project with:
 
 ### Usage
 
-Use this app by runing:
+This repository includes files with plain SQL that can be used to recreate a database:
 
-```sh
-  cd my-folder
-  git https://github.com/Yemisirach/vet_clinic.git
-  npm install
-  npm start
-```
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database.
 
-### Run tests
-
-Test this app by runing:
-
-```sh
-  cd my-folder
-  git clone https://github.com/Yemisirach/vet_clinic.git
-  npm install
-  npm test
-```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
