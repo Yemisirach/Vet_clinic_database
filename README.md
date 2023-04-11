@@ -3,7 +3,6 @@
 > This template should be used for database related projects at Microverse.
 > Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
 
-
 ## Getting Started
 
 This repository includes files with plain SQL that can be used to recreate a database:
@@ -36,7 +35,6 @@ REQUIRED SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -63,11 +61,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Vet-clini] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+create all tables and populate tables with sample data
 
-**[your_project__name]** is a...
+**[Vet-clini]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -100,11 +98,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+-create all tables
+-populate tables with sample data
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](<replace-with-your-deployment-URL>)
+- [Live Demo Link](coming)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,170 +117,100 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+In order to run this project you need: a properly working pc or laptop and a modern web browser.
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/Yemisirach/vet_clinic.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
-  cd my-project
-  gem install
+  cd my-folder
+  git clone https://github.com/Yemisirach/vet_clinic.git
+  npm install
 ```
---->
 
 ### Usage
 
-To run the project, execute the following command:
-
-<!--
-Example command:
+Use this app by runing:
 
 ```sh
-  rails server
+  cd my-folder
+  git https://github.com/Yemisirach/vet_clinic.git
+  npm install
+  npm start
 ```
---->
 
 ### Run tests
 
-To run tests, run the following command:
-
-<!--
-Example command:
+Test this app by runing:
 
 ```sh
-  bin/rails test test/models/article_test.rb
+  cd my-folder
+  git clone https://github.com/Yemisirach/vet_clinic.git
+  npm install
+  npm test
 ```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+## Authors
 
-## 👥 Authors <a name="authors"></a>
+## 👤 Author <a name="author"></a>
 
-> Mention all of the collaborators of this project.
+### 👤 **Yemisirach Tamirat**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@yemisrach](https://github.com/Yemisirach)
+- Twitter: [@Yemisirach](https://twitter.com/tamiratyemsrach)
+- LinkedIn: [@Yemisirach](https://www.linkedin.com/in/yemisirach)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+Use database transactions 
+- [ ] **Use database transactions**
+- [ ] **Modify and delete data in SQL**
+- [ ] **Prepare complex queries that answer analytical questions**
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Yemisirach/vet_clinic/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+Give a ⭐️ if you like this project and share it with your friends.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+- I would like to thank my Microverse partners.
+- Hat tip to code reviewers.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./license) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
