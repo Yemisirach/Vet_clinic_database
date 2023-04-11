@@ -134,9 +134,6 @@ Test this app by runing:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Authors
-
-## 👤 Author <a name="author"></a>
-
 ### 👤 **Yemisirach Tamirat**
 
 - GitHub: [@yemisrach](https://github.com/Yemisirach)
