@@ -76,16 +76,6 @@ Clone this repository to your desired folder:
   git clone https://github.com/Yemisirach/vet_clinic.git
 ```
 
-### Install
-
-Install this project with:
-
-```sh
-  cd my-folder
-  git clone https://github.com/Yemisirach/vet_clinic.git
-  npm install
-```
-
 ### Usage
 
 This repository includes files with plain SQL that can be used to recreate a database:
@@ -95,7 +85,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Authors
+
 ### 👤 **Yemisirach Tamirat**
 
 - GitHub: [@yemisrach](https://github.com/Yemisirach)
