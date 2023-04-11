@@ -6,7 +6,7 @@
 
 # 📗 Table of Contents
 
--- [vet_clinic](#vet_clinic)
+- [vet_clinic](#vet_clinic)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
