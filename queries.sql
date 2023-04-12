@@ -11,7 +11,6 @@ SELECT * FROM animals WHERE weight_kg BETWEEN 10.3 AND 17.4;
 
 
 
-/* Transaction 1 */
 
 BEGIN;
 UPDATE animals SET species = 'unspecified';
@@ -20,7 +19,6 @@ UPDATE animals SET species = 'digimon' WHERE name ilike '%mon%';
 UPDATE animals SET species = 'pokemon' WHERE species is null;
 COMMIT;
 
-/* Transaction 2 */
 
 BEGIN;
 DELETE FROM animals WHERE date_of_birth > '2022-01-01';
