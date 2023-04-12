@@ -10,7 +10,6 @@ SELECT * FROM animals WHERE name != 'Gabumon';
 SELECT * FROM animals WHERE weight_kg BETWEEN 10.3 AND 17.4;
 
 
-/* Day 2 */
 
 /* Transaction 1 */
 
