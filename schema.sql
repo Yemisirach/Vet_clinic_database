@@ -30,7 +30,7 @@ ALTER TABLE animals
   
 CREATE TABLE vets (
     id                 INT  GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
-    name               CHAR(30),
+    name               varchar(30),
     age                INT,
     date_of_graduation date
 );
