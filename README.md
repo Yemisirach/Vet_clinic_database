@@ -28,7 +28,8 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet_clinic database] <a name="about-project"></a>
+# 📖 [Vet_clinic database diagram] <a name="about-project"></a>
+![diagram](https://user-images.githubusercontent.com/104437323/232808766-6c125787-dcae-4be7-8101-c61de3922f87.png)
 
 
 **[Vet_clinic database]** is a relational database used to create the database for a vet clinic. I created a table to store animals' information, insert some data into it, and query it.
